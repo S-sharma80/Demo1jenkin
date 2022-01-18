@@ -1,0 +1,13 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+ 
+  <groupId>com.mycompany.app</groupId>
+  <artifactId>Demo1jenkin</artifactId>
+  <version>3.8.4</version>
+  <packaging>war</packaging>  
+  
+  <properties>
+    <failOnMissingWebXml>false</failOnMissingWebXml>   
+</properties>
+  
+</project>
